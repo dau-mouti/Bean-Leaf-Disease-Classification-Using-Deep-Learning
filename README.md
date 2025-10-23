@@ -112,4 +112,5 @@ README.md                   -> Project documentation
 ```
 
 ---
-
+## Link to .h5 model
+https://drive.google.com/file/d/1Zu2FnZowNeQarC4q8r3Zqu2WTbCdj0YH/view?usp=drive_link
